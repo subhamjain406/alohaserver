@@ -1,0 +1,7 @@
+{
+        "name": "Slate for Aloha India",
+        "description": "App for Aloha India for maintaining records",
+        "repository": "https://github.com/akashka/spark",
+        "logo": "http://pereless360.com/img/SP/Ghost/360-logo-white.png",
+        "keywords": ["ionic2", "heroku", "pereless360"]
+    }

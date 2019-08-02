@@ -1,0 +1,36 @@
+{
+  "name": "ionic2-roles",
+  "version": "0.1.0",
+  "description": "A sample Node.js app using Express 4",
+  "engines": {
+    "node": "8.4.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@ionic-native/core": "^4.1.0",
+    "@ionic-native/splash-screen": "^4.1.0",
+    "@sendgrid/mail": "^6.1.2",
+    "aws-sdk": "^2.382.0",
+    "base-64": "^0.1.0",
+    "bcrypt": "^1.0.3",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.1",
+    "curlrequest": "^1.0.1",
+    "express": "^4.14.0",
+    "json2csv": "^3.11.5",
+    "jsonwebtoken": "^7.1.9",
+    "lodash-node": "^3.10.2",
+    "mongoose": "^4.6.3",
+    "morgan": "^1.7.0",
+    "nodemailer": "^4.0.1",
+    "passport": "^0.3.2",
+    "passport-jwt": "^2.1.0",
+    "passport-local": "^1.0.0",
+    "request-promise": "^4.2.1",
+    "speakeasy": "^2.0.0"
+  }
+}
